@@ -22,9 +22,10 @@
   <img align="center" alt="jp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jp-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="jp-rocket" height="140" width="185" src="https://media.giphy.com/media/l0IycI0rreFNQwmSQ/giphy.gif?cid=790b76112dvs064lfbonivdlyx4drfqf9j0s21ld4jkogkwn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 </div>
 
-## 💬 Me contate
+## 
 
 <div> 
   <a href="https://www.youtube.com/@NerdPadawan121" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
