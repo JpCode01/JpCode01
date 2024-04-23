@@ -1,7 +1,6 @@
 ## 👋 Olá, eu sou o João Pedro
 
-- 🔭 Hoje trabalho com JavaScript e Python
-- 🌱 Estudando: JavaScript
+- 🌱 Estudando: Python
 
 ## ⚡️ GitHub Stats
 
