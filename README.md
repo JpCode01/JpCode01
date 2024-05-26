@@ -32,5 +32,7 @@
 <div> 
   <a href="https://www.youtube.com/@NerdPadawan121" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jpcode_25/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-vaz-garbin-86684030a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <img align="right" alt="jp-rocket" height="140" width="185" src="https://media.giphy.com/media/l0IycI0rreFNQwmSQ/giphy.gif?cid=790b76112dvs064lfbonivdlyx4drfqf9j0s21ld4jkogkwn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
+
