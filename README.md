@@ -27,6 +27,13 @@
   <img align="center" alt="jp-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+## 🔨 Projetos 
+
+- [Player de Música](https://github.com/JpCode01/music_player)
+- [Gerador de filme](https://github.com/JpCode01/movie-night)
+- [Loja de computadores](https://github.com/JpCode01/gaming-store-brazil)
+- [Login em loja de eletrônicos](https://github.com/JpCode01/eletronic-palace)
+
 ## 📫 Onde me encontrar:
 
 <div> 
