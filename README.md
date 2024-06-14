@@ -29,6 +29,7 @@
 
 ## 🔨 Projetos 
 
+- [Clientes API com Django Rest Framework](https://github.com/JpCode01/api_cientes)
 - [Escola API com Django Rest Framework](https://github.com/JpCode01/Escola-Api/tree/main)
 - [Player de Música](https://github.com/JpCode01/music_player)
 - [Gerador de filme](https://github.com/JpCode01/movie-night)
