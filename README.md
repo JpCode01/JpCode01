@@ -29,6 +29,7 @@
 
 ## 🔨 Projetos 
 
+- [Api Portal de Reviews com Django Rest Framework](https://github.com/JpCode01/review-land)
 - [Escola API com Django Rest Framework - Interação com React](https://github.com/JpCode01/escola-api-rest-react)
 - [Aluraflix API - Testes e Documentação Swagger](https://github.com/JpCode01/aluraflix)
 - [Clientes API com Django Rest Framework](https://github.com/JpCode01/api_cientes)
