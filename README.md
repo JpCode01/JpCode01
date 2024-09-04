@@ -2,7 +2,7 @@
 
 ## 📖 Sobre mim
 
-- 🌱 Estudando: Django Rest Framework
+- 🌱 Estudando: Django
 - <img height="18em" src="https://github.com/JpCode01/JpCode01/assets/165571084/d063f677-38ec-4811-8add-5820a62dbbc2"/>  Aluno da Plataforma Alura
 - 📚 Futuro estudante de Análise e Desenvolvimento de Sistenas na Fatec
 
