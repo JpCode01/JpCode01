@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JpCode01&show_icons=true&theme=tokyonight"/>
   <br>
   <br>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JpCode01&theme=tokyonight&exclude=java"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JpCode01&theme=tokyonight"/>
   
   
 </div>
