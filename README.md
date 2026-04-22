@@ -32,7 +32,8 @@
 
 ## 🔨 Projetos 
 
-- [Projeto ScreenMatch - Java (Spring Boot e PostgreeSQL)](https://github.com/JpCode01/screenmatch-sem-web-spring)
+- [Projeto ScreenMatch Full Stack - Java (Spring Boot e PostgreeSQL)](https://github.com/JpCode01/screenmatch-sem-web-spring)
+- [Projeto ScreenSound - Java (Spring Boot e PostgreeSQL)](https://github.com/JpCode01/Screensound)
 - [Projeto Alura Space - Django (Amazon S3 e Autenticação de usuários)](https://github.com/JpCode01/alura_space)
 - [Api Portal de Reviews com Django Rest Framework](https://github.com/JpCode01/review-land)
 - [Escola API com Django Rest Framework - Interação com React](https://github.com/JpCode01/escola-api-rest-react)
