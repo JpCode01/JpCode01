@@ -1,5 +1,3 @@
-![ezgif-2-37fc2a22c6](https://github.com/JpCode01/JpCode01/assets/165571084/4a7fd100-141a-4aa6-b19a-aa1a0f20be8d)
-
 ## 📖 Sobre mim
 
 - 🌱 Estudando: Java
