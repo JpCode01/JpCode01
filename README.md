@@ -9,9 +9,6 @@
 ## ⚡️ GitHub Stats
 
 <div> 
-  <a href= "https://github.com/JpCode01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JpCode01&show_icons=true&theme=tokyonight"/>
-  <br>
   <br>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JpCode01&theme=tokyonight"/>
   
@@ -32,6 +29,7 @@
 
 ## 🔨 Projetos 
 
+- [Projeto ScreenTrack Rest Api - Java (SpringBoot, PostgreeSQL, JWT)](https://github.com/JpCode01/Screen-Track)
 - [Projeto ScreenMatch Full Stack - Java (Spring Boot e PostgreeSQL)](https://github.com/JpCode01/screenmatch-sem-web-spring)
 - [Projeto ScreenSound - Java (Spring Boot e PostgreeSQL)](https://github.com/JpCode01/Screensound)
 - [Projeto Alura Space - Django (Amazon S3 e Autenticação de usuários)](https://github.com/JpCode01/alura_space)
