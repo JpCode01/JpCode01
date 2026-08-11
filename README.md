@@ -9,7 +9,7 @@
 <div> 
   <br>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JpCode01&theme=tokyonight"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=JpCodde"
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=JpCode01&theme=tokyonight"
   
   
 </div>
