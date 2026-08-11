@@ -1,51 +1,110 @@
-## 📖 Sobre mim
+<h1 align="center">Hi 👋, I'm João Pedro</h1>
 
-- 🌱 Estudando: Java e Spring Boot
-- <img height="18em" src="https://github.com/JpCode01/JpCode01/assets/165571084/d063f677-38ec-4811-8add-5820a62dbbc2"/>  Aluno da Plataforma Alura
-- 📚 Estudante de Engenharia de Software na USF e ADS na Fatec
+<h3 align="center">
+Backend Developer | Java & Spring Boot Enthusiast
+</h3>
 
-## ⚡️ GitHub Stats
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Java+Backend+Developer;Spring+Boot+%7C+AWS+%7C+Docker;Always+Learning+Something+New" />
+</p>
 
-<div> 
-  <br>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JpCode01&theme=tokyonight"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=JpCode01&theme=tokyonight"
-  
-  
-</div>
+<p align="center">
+<a href="https://github.com/JpCode01">
+<img src="https://komarev.com/ghpvc/?username=JpCode01&label=Profile%20Views&color=red&style=for-the-badge" />
+</a>
+</p>
 
-## 💻 Tecnologias
+---
+
+## 🚀 About Me
+
+🎓 Software Engineering Student at USF (Bragança Paulista, São Paulo, Brazil)
+
+🎓 Systems Analysis and Development Student at FATEC (Bragança Paulista, São Paulo, Brazil)
+
+💻 Backend Developer focused on Java & Spring Boot
+
+📚 Currently improving System Design and Software Architecture skills
+
+🌎 English Level: C1
+
+🎯 Goal: Build scalable applications and become an international software engineer
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=JpCode01&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=JpCode01&theme=tokyonight&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="600" src="https://github-stats-extended.vercel.app/api/pin?username=JpCode01&repo=Screen-Track" />
+</p>
 
 
-<div style="display: inline_block">
-    <img align="center" alt="jp-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-          
-  <img align="center" alt="jp-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jp-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jp-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+## 🔥 Featured Projects
 
-## 🔨 Projetos 
+### 📅 L'Privillege
 
-- [Projeto ScreenTrack Rest Api - Java (SpringBoot, PostgreeSQL, JWT)](https://github.com/JpCode01/Screen-Track)
-- [Projeto ScreenMatch Full Stack - Java (Spring Boot e PostgreeSQL)](https://github.com/JpCode01/screenmatch-sem-web-spring)
-- [Projeto ScreenSound - Java (Spring Boot e PostgreeSQL)](https://github.com/JpCode01/Screensound)
-- [Projeto Alura Space - Django (Amazon S3 e Autenticação de usuários)](https://github.com/JpCode01/alura_space)
-- [Api Portal de Reviews com Django Rest Framework](https://github.com/JpCode01/review-land)
-- [Escola API com Django Rest Framework - Interação com React](https://github.com/JpCode01/escola-api-rest-react)
-- [Aluraflix API - Testes e Documentação Swagger](https://github.com/JpCode01/aluraflix)
-- [Clientes API com Django Rest Framework](https://github.com/JpCode01/api_cientes)
-- [Escola API com Django Rest Framework](https://github.com/JpCode01/Escola-Api/tree/main)
-- [Player de Música](https://github.com/JpCode01/music_player)
-- [Gerador de filme](https://github.com/JpCode01/movie-night)
-- [Loja de computadores](https://github.com/JpCode01/gaming-store-brazil)
-- [Login em loja de eletrônicos](https://github.com/JpCode01/eletronic-palace)
+Salon Scheduling API built with Spring Boot following professional backend development practices.
 
-## 📫 Onde me encontrar:
+### 🎬 ScreenTrack
 
-<div> 
-   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-vaz-garbin-86684030a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <img align="right" alt="jp-rocket" height="140" width="185" src="https://media.giphy.com/media/l0IycI0rreFNQwmSQ/giphy.gif?cid=790b76112dvs064lfbonivdlyx4drfqf9j0s21ld4jkogkwn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-</div>
+Movie and TV Series tracking API using:
 
+- Spring Boot
+- JWT Authentication
+- PostgreSQL
+- Docker
+- Flyway
+
+### 📸 AluraSpace
+
+Image sharing platform built with Django.
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JpCode01&theme=tokyo-night&hide_border=true" />
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://github.com/JpCode01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+<a href="https://www.linkedin.com/in/garbinjoao/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</p>
+
+---
+
+> "First, solve the problem. Then, write the code."
