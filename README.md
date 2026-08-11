@@ -58,12 +58,8 @@ Backend Developer | Java & Spring Boot Enthusiast
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=JpCode01&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=JpCode01&theme=tokyonight&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="600" src="https://github-stats-extended.vercel.app/api/pin?username=JpCode01&repo=Screen-Track" />
+  <img height="182em" src="https://github-stats-extended.vercel.app/api?username=JpCode01&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img width="480" src="https://github-stats-extended.vercel.app/api/pin?username=JpCode01&repo=Screen-Track" />
 </p>
 
 
