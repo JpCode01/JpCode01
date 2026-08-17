@@ -78,7 +78,6 @@ The project focuses on business rules, appointment scheduling, authentication an
 
 <p>
 <a href="https://github.com/JpCode01/L-Privillege">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
 
